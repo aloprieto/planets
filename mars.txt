@@ -1,4 +1,4 @@
 Cold and dry, but everything is my favorite color (or not)
-The two moons may be a problem for Wolfman (more about this on moon.txt)
+The two moons may be a problem for Wolfman (more about this on file moon.txt)
 But the mummy will appreciate the lack of humidity
 last line
